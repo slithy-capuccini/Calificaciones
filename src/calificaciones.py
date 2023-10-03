@@ -45,3 +45,4 @@ def nota_continua(tupla_t,tupla_p):
     med_cuat2=nota_cuatrimestre(tupla_t[2:],tupla_p[1])
 
     return nota_media([med_cuat1,med_cuat2])
+#muy buenas bro como estamos
